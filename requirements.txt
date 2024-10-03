@@ -1,3 +1,4 @@
+comfyui_llm_party==1.0.0
 beautifulsoup4
 docx2txt
 langchain
